@@ -15,6 +15,7 @@ A simple Snake game built in Swift, running in the command line. Navigate the sn
 
 Meet the team:
 Rayaan Ismail: https://github.com/rayaanismail
+
 Danielle Abrams: https://github.com/daniabrams333
 
 👩‍💻 My Contributions
