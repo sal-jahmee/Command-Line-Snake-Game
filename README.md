@@ -14,6 +14,7 @@ A simple Snake game built in Swift, running in the command line. Navigate the sn
 - Win condition for high score
 
 Meet the team:
+
 Rayaan Ismail: https://github.com/rayaanismail
 
 Danielle Abrams: https://github.com/daniabrams333
