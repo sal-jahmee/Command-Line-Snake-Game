@@ -7,7 +7,7 @@ A simple Snake game built in Swift, running in the command line. Navigate the sn
 🎮 Features
 
 - Multiple game maps with different layouts
-- Smooth player controls (WASD / Arrow Keys)
+- Smooth player controls (WASD)
 - Dynamic borders and obstacles
 - Growth mechanics when eating food
 - Collision detection for walls, obstacles, and self
