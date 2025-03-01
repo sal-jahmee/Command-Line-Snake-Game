@@ -46,7 +46,10 @@ Board Theme Selection
 Player Instructions/Objective  
 Player Score and Board Occupation
 Win Message
+
+
 <img src="https://github.com/user-attachments/assets/3e13afbe-eddc-48ec-b8e2-ff9121d2af6d" width="400">
+
 <img src="https://github.com/user-attachments/assets/e3d7262f-40a7-4e97-832f-37e44e7243e2" width="400">
 
 ### Some Board Themes:  
