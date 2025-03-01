@@ -30,6 +30,13 @@ I focused on improving the game experience and structure, including:
 - Refining the snake's movement and tail appearance  
 - Game testing / finding bugs  
 - Tweaking game mechanics for smoother controls  
+## What I Learned
+---
+
+- I learned how to modify terminal settings to handle real-time input. Our game required live input without leaving a trace of letters on the screen. To achieve this, we first stored the original terminal settings using termios() so we could restore them later when needed. Then, we created a function called setRawMode() that disabled echo (which prevents user input from being displayed) and turned off canonical mode (which allows input to be processed immediately without requiring the Enter key). This made the game more interactive and responsive.
+  
+![image](https://github.com/user-attachments/assets/ce96e310-df88-4800-8a65-3a812a930976)
+
 
 ## 📸 Screenshots  
 ---
