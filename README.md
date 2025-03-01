@@ -51,4 +51,4 @@ Win Message
 ![image](https://github.com/user-attachments/assets/e3d7262f-40a7-4e97-832f-37e44e7243e2)
 
 ### Some Board Themes:  
-![image](https://github.com/user-attachments/assets/38d7728b-0b35-46ca-9b6c-d18d6a416e3b)  
+<img src="https://github.com/user-attachments/assets/38d7728b-0b35-46ca-9b6c-d18d6a416e3b" width="400">
